@@ -1,1 +1,1 @@
-Aplicação Ignite Timmer - Curso Ignite Rocketseat
+Aplicação REACT Timmer - Usando Hook useReducer
